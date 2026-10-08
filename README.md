@@ -1,0 +1,1 @@
+# vyshka_sberindex

@@ -1,0 +1,6 @@
+data/raw/
+*.parquet
+!data/external/*
+results/prophet_forecasts_*.parquet
+__pycache__/
+.ipynb_checkpoints/

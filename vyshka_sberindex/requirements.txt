@@ -1,0 +1,14 @@
+pandas>=2.1
+numpy
+pyarrow
+openpyxl
+xlrd
+holidays
+lightgbm>=4.0
+prophet>=1.1
+ruptures>=1.1
+scikit-learn
+scipy
+matplotlib
+pyyaml
+# только для ноутбуков в Colab: chronos-forecasting, torch
